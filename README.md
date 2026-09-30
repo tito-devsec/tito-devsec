@@ -29,6 +29,7 @@ const tito = {
     leadership: "Vice President, UDSM Cybersecurity Club",
     currentlyBuilding: "Moran AI: sales & support agents on WhatsApp 🤖",
     focus: ["Secure web apps", "Penetration testing", "Systems thinking"],
+    currentlyStudying: "IBM AI Engineering & Machine Learning on Coursera 🧠",
     location: "Dar es Salaam, Tanzania 🇹🇿",
     availability: "Open for freelance work 🚀",
 };
@@ -188,6 +189,7 @@ I build complete systems from concept to deployment: clean interfaces, scalable 
 ## 🌟 What I'm Up To
 
 - 🔭 Currently building **Moran AI** and shipping **full-stack products** for businesses in Tanzania
+- 📚 Currently studying the **IBM AI & Machine Learning** professional certificate on **Coursera**
 - 🌱 Going deeper into **cloud infrastructure**, **DevSecOps** and **advanced penetration testing**
 - 🎤 Running **workshops and CTF competitions** as Vice President of the **UDSM Cybersecurity Club**
 - 👯 Open to **freelance work** and collaboration on **open-source** and **security** projects
