@@ -208,6 +208,28 @@ const tito = {
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📈 mt5-sclapingbot
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MQL5-MetaTrader_5-1C5BA5?style=flat-square" alt="MQL5" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine learning" />
+<img src="https://img.shields.io/badge/Quant-research-10B981?style=flat-square" alt="Quant research" />
+
+**Adaptive, risk-aware scalping research on MetaTrader 5.** Classifies the market regime bar by bar, lets specialist strategies propose candidates only in regimes that suit them, scores them after real costs with local ML and performance memory, and passes everything through an independent risk engine that cannot be overridden. Observe-only by design.
+
+📂 [tito-devsec/mt5-sclapingbot](https://github.com/tito-devsec/mt5-sclapingbot) · 🏷️ [v0.1.0](https://github.com/tito-devsec/mt5-sclapingbot/releases/tag/v0.1.0)
+
+</td>
+<td width="67%" colspan="2" valign="middle" align="center">
+<br />
+<img src="https://img.shields.io/badge/Flagship%20stack-Rust%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%E2%80%A2%20WhatsApp%20%E2%80%A2%20TPM%20%E2%80%A2%20eBPF-0f0c29?style=for-the-badge" alt="Flagship stack" />
+<br /><br />
+<sub>Security engineering, AI products and systems research, built end to end.</sub>
+<br /><br />
+</td>
+</tr>
 </table>
 
 <p align="center"><sub>🧰 Products &amp; platforms</sub></p>
