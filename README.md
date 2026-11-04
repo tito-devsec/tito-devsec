@@ -19,7 +19,7 @@
   <a href="https://titodevsec.online"><img src="https://img.shields.io/badge/Portfolio-titodevsec.online-455CE9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/tito-mwaisengela-b31595434/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:titomwaisengela@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://discord.com/users/titodevsec"><img src="https://img.shields.io/badge/Discord-titodevsec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Discord-titodevsec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: titodevsec" />
 </p>
 
 <p align="center">
