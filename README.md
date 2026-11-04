@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/tito-devsec?tab=followers"><img src="https://img.shields.io/github/followers/tito-devsec?style=flat-square&logo=github&label=Followers&color=455CE9&labelColor=0f0c29" alt="Followers" /></a>
-  <a href="https://github.com/tito-devsec?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&label=Public%20repos&labelColor=0f0c29&color=455CE9&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftito-devsec" alt="Public repos" /></a>
+  <a href="https://github.com/tito-devsec?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-455CE9?style=flat-square&logo=github&labelColor=0f0c29" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=tito-devsec&style=flat-square&color=455CE9&label=Profile+views" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Collab-10B981?style=flat-square&logo=handshake&logoColor=white&labelColor=0f0c29" alt="Open to freelance" />
 </p>
