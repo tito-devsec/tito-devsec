@@ -162,6 +162,56 @@ const tito = {
 
 <h2 align="center">🚀 Featured projects</h2>
 
+<p align="center"><sub>🔥 Flagship work</sub></p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 MoranBuy
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Meta_AI-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta AI" />
+
+**Tell us your budget. The shops come to you.** An AI reverse marketplace on WhatsApp: a customer sends a message, a photo or a Swahili voice note, MoranBuy finds the shops that have it, ranks offers budget-first and holds payment in escrow until the product is in the customer's hands.
+
+🌐 [Live demo](https://buy.moranai.co.tz/demo) · 📂 [tito-devsec/moranbuy](https://github.com/tito-devsec/moranbuy)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ PreRan
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/eBPF-F7DF1E?style=flat-square&logo=ebpf&logoColor=black" alt="eBPF" />
+<img src="https://img.shields.io/badge/YARA-6E40C9?style=flat-square" alt="YARA" />
+<img src="https://img.shields.io/badge/Linux_EDR-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux EDR" />
+
+**Predictive ransomware prevention for Linux.** Built on a red-team-tested EDR engine, PreRan learns a baseline, correlates behaviour, predicts an attack before data loss and keeps an encrypted, recoverable copy ready: `LEARN → PREDICT → PRE-PROTECT → PREVENT → RECOVER`. Validated on Debian 13 and Ubuntu 25.10.
+
+🔒 Private repo · access on request
+
+</td>
+<td width="33%" valign="top">
+
+### 🏭 Genuforge
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/TPM_2.0-attestation-455CE9?style=flat-square" alt="TPM 2.0" />
+<img src="https://img.shields.io/badge/HPKE-RFC_9180-B91C1C?style=flat-square" alt="HPKE" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+<img src="https://img.shields.io/badge/NFC-002E5F?style=flat-square&logo=nfc&logoColor=white" alt="NFC" />
+
+**Licensed, verifiable 3D manufacturing at the point of need.** Design owners sell the right to print a part N times on a printer they never touch. Encrypted `.MT` packages, one key per print released only to TPM-attested stations, toolpath watermarks, NFC-sealed parts and a Merkle authenticity registry anyone can check from a phone.
+
+🔒 Private repo · access on request
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>🧰 Products &amp; platforms</sub></p>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
